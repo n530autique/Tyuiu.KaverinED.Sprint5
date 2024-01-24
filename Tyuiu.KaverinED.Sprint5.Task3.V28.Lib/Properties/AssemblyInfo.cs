@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Tyuiu.KaverinED.Sprint5.Task2.V30.Lib")]
+[assembly: AssemblyTitle("Tyuiu.KaverinED.Sprint5.Task3.V28.Lib")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.KaverinED.Sprint5.Task2.V30.Lib")]
+[assembly: AssemblyProduct("Tyuiu.KaverinED.Sprint5.Task3.V28.Lib")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("f5832c6d-9633-47e7-b0d1-2a62f942d3a2")]
+[assembly: Guid("8effd85b-c2d1-4ef5-b1ff-1930b909b459")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

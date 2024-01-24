@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5832C6D-9633-47E7-B0D1-2A62F942D3A2}</ProjectGuid>
+    <ProjectGuid>{618D752D-4BC0-4565-A8EB-0F495740FD92}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KaverinED.Sprint5.Task2.V30.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.KaverinED.Sprint5.Task2.V30.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.KaverinED.Sprint5.Task5.V7.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.KaverinED.Sprint5.Task5.V7.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
